@@ -1,0 +1,309 @@
+[
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545407701653,
+            "changeTime": 1545407701653,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545407701653,
+            "changeTime": 1545407701653,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1545410492717,
+            "changeTime": 1545410492717,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1545407701653,
+            "changeTime": 1545407701653,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1545407948797,
+            "changeTime": 1545407948797,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/Loan__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/Loan__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2015,
+            "modifiedTime": 1545410492697,
+            "changeTime": 1545410492697,
+            "contentHash": "06495e68ee9342065bbba0e124e7e86d2f2747a2"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/fields/Employee__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/fields/Employee__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 595,
+            "modifiedTime": 1545410492698,
+            "changeTime": 1545410492698,
+            "contentHash": "944d4c6523984f4a501b04c7a86f68a77e929e04"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2053,
+            "modifiedTime": 1545410492703,
+            "changeTime": 1545410492703,
+            "contentHash": "f839c5866c579d3bef5e0bea58cad20c4581db69"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Bank__c/Bank__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Bank__c/Bank__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2006,
+            "modifiedTime": 1545410492708,
+            "changeTime": 1545410492708,
+            "contentHash": "b67f0eb56b01d6f67c330382239cdcf716848a6f"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2071,
+            "modifiedTime": 1545410492710,
+            "changeTime": 1545410492710,
+            "contentHash": "9d8cc28a7cf7ab42d3c4067d85bdb3b7a6f6dd88"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Loan__c-Loan Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Loan__c-Loan Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1931,
+            "modifiedTime": 1545410492712,
+            "changeTime": 1545410492712,
+            "contentHash": "cb87733488bd2979e8aa235fe7049d11d31e159d"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Bank__c-Bank Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts/Bank__c-Bank Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1545410492714,
+            "changeTime": 1545410492714,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4611,
+            "modifiedTime": 1545410492718,
+            "changeTime": 1545410492718,
+            "contentHash": "9c9d6098e7e75d5ca03a5b78d77c056867b302ab"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4611,
+            "modifiedTime": 1545410492721,
+            "changeTime": 1545410492721,
+            "contentHash": "9c9d6098e7e75d5ca03a5b78d77c056867b302ab"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19141,
+            "modifiedTime": 1545410492731,
+            "changeTime": 1545410492731,
+            "contentHash": "8f48e9c6c95a43b575ee83f90e4787709d8d4b3f"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4949,
+            "modifiedTime": 1545410492734,
+            "changeTime": 1545410492734,
+            "contentHash": "b26cd14afcddf4d3e2fc4a9d81bf05bb721ad231"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545410492697,
+            "changeTime": 1545410492697,
+            "contentHash": "79e37e36ffad17f9917b573fca4e17562f4f1d6a"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1545410492707,
+            "changeTime": 1545410492707,
+            "contentHash": "8ad16353e53df43cd7be5f764de9b338ba36be62"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Loan__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545410492698,
+            "changeTime": 1545410492698,
+            "contentHash": "09e7f3b8f862854013a82a0681b9a8660feb34e7"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Employee__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545410492703,
+            "changeTime": 1545410492703,
+            "contentHash": "a4bee72c78311716b2410471453ceb7767ee5d58"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Bank__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/objects/Bank__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545410492708,
+            "changeTime": 1545410492708,
+            "contentHash": "ce7832f5928dc1ca7040b143376afa21839e48b7"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1545410492714,
+            "changeTime": 1545410492714,
+            "contentHash": "66a1b36a0c4193a745ceb5aad950d8e321015ecc"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/thyme_services/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1545410492734,
+            "changeTime": 1545410492734,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
