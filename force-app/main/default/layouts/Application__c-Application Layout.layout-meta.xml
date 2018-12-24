@@ -12,11 +12,19 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Min_Loan_Amount__c</field>
+                <field>Credit_Score__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Salary__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Max_Loan_Amount__c</field>
+                <field>Repayment_Period__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Outcome__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
