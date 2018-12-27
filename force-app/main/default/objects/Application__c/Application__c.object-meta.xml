@@ -43,7 +43,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Loan application. It can have three states: Approved, Referred or Rejected. Approved applications have associated Loan records.</description>
+    <description>Loan application. It can have four states: Submitted, Approved, Referred or Rejected. Approved applications have associated Loan records.</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>

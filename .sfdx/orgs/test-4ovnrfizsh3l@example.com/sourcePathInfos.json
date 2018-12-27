@@ -62,14 +62,14 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Application__c-Application Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Application__c-Application Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2514,
             "modifiedTime": 1545923318249,
             "changeTime": 1545923318249,
-            "contentHash": "ed3a4fdc10179f99900fdac98edb8b92b3cc3b66"
+            "contentHash": "ed3a4fdc10179f99900fdac98edb8b92b3cc3b66",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -90,27 +90,27 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2211,
             "modifiedTime": 1545923318255,
             "changeTime": 1545923318255,
-            "contentHash": "de3cc03f97634a8fe148b9d6583ef59c277f6c8d"
+            "contentHash": "de3cc03f97634a8fe148b9d6583ef59c277f6c8d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Loan__c-Loan Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/layouts/Loan__c-Loan Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2350,
             "modifiedTime": 1545923318252,
             "changeTime": 1545923318252,
-            "contentHash": "2a296cacf477cf293b1bc709a21a462a3ee341f3"
+            "contentHash": "2a296cacf477cf293b1bc709a21a462a3ee341f3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -131,44 +131,40 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1545920586379,
-            "changeTime": 1545920586379,
-            "contentHash": "1e1b3bc66d750aedd99069f2f05234c243ba4a04",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 160,
+            "modifiedTime": 1545925275338,
+            "changeTime": 1545925275338,
+            "contentHash": "e5baf19c76493671bbb422461efd92a9fd673215"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/Application__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/Application__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2186,
-            "modifiedTime": 1545920586379,
-            "changeTime": 1545920586379,
-            "contentHash": "aae974050ac816c99939309da2a8a57c109e246b",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2196,
+            "modifiedTime": 1545925275336,
+            "changeTime": 1545925275336,
+            "contentHash": "48a3386a5e105d1e1bf45cf633ee8bfea57ad4c0"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1545923318228,
             "changeTime": 1545923318228,
-            "contentHash": "43d483afba103e5d22c4f36ab844185a85ad7633"
+            "contentHash": "43d483afba103e5d22c4f36ab844185a85ad7633",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -279,29 +275,27 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1545923318238,
             "changeTime": 1545923318238,
-            "contentHash": "e20ebabb66b9d4ddd2c52acd067d36f96eaf7023"
+            "contentHash": "e20ebabb66b9d4ddd2c52acd067d36f96eaf7023",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2053,
-            "modifiedTime": 1545920586428,
-            "changeTime": 1545920586428,
-            "contentHash": "f839c5866c579d3bef5e0bea58cad20c4581db69",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2052,
+            "modifiedTime": 1545925275346,
+            "changeTime": 1545925275346,
+            "contentHash": "a7163e3db6110873530edfec8e79ea88a6733284"
         }
     ],
     [
@@ -337,14 +331,14 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1545923318234,
             "changeTime": 1545923318234,
-            "contentHash": "96627a75e843ed52e71a20daef06611a90ecd063"
+            "contentHash": "96627a75e843ed52e71a20daef06611a90ecd063",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -380,53 +374,53 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 20258,
             "modifiedTime": 1545923318311,
             "changeTime": 1545923318311,
-            "contentHash": "b04e4de608ed868e53e34f40819766b6c54b0d2f"
+            "contentHash": "b04e4de608ed868e53e34f40819766b6c54b0d2f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5391,
             "modifiedTime": 1545923318271,
             "changeTime": 1545923318271,
-            "contentHash": "332c8efe969d585d78a05900d271de5bf6fa81fe"
+            "contentHash": "332c8efe969d585d78a05900d271de5bf6fa81fe",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5391,
             "modifiedTime": 1545923318263,
             "changeTime": 1545923318263,
-            "contentHash": "332c8efe969d585d78a05900d271de5bf6fa81fe"
+            "contentHash": "332c8efe969d585d78a05900d271de5bf6fa81fe",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5729,
             "modifiedTime": 1545923318281,
             "changeTime": 1545923318281,
-            "contentHash": "16a19da5df2bb0f12cd3c8bb0eeacd2a8aac8689"
+            "contentHash": "16a19da5df2bb0f12cd3c8bb0eeacd2a8aac8689",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -447,92 +441,131 @@
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields/Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1146,
             "modifiedTime": 1545923318228,
             "changeTime": 1545923318228,
-            "contentHash": "b9d3f7ac397fcac2db3d03c975827944a1760e8d"
+            "contentHash": "b9d3f7ac397fcac2db3d03c975827944a1760e8d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields/Value__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/fields/Value__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 357,
             "modifiedTime": 1545923318228,
             "changeTime": 1545923318228,
-            "contentHash": "5e99ca1731df85675d400229990e32687d1a1133"
+            "contentHash": "5e99ca1731df85675d400229990e32687d1a1133",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Period__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Period__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 461,
             "modifiedTime": 1545923318234,
             "changeTime": 1545923318234,
-            "contentHash": "0420a31584d28ea9526fe5981d8f1550af4f65d4"
+            "contentHash": "0420a31584d28ea9526fe5981d8f1550af4f65d4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 804,
             "modifiedTime": 1545923318234,
             "changeTime": 1545923318234,
-            "contentHash": "0a52cab78b81263dacd9f6e945c20a89df25e1a6"
+            "contentHash": "0a52cab78b81263dacd9f6e945c20a89df25e1a6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Value__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Loan__c/fields/Value__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 357,
             "modifiedTime": 1545923318234,
             "changeTime": 1545923318234,
-            "contentHash": "5e99ca1731df85675d400229990e32687d1a1133"
+            "contentHash": "5e99ca1731df85675d400229990e32687d1a1133",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/fields/Salary__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/fields/Salary__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 359,
             "modifiedTime": 1545923318239,
             "changeTime": 1545923318239,
-            "contentHash": "f3a3285fab0212a6c9cdacfb70b3c043fff94e64"
+            "contentHash": "f3a3285fab0212a6c9cdacfb70b3c043fff94e64",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Employee__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545923318238,
             "changeTime": 1545923318238,
-            "contentHash": "b8a7807868a61778a40a840804899b15aa2b76ab"
+            "contentHash": "b8a7807868a61778a40a840804899b15aa2b76ab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules/Repayment_period.validationRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules/Repayment_period.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1545925275339,
+            "changeTime": 1545925275339,
+            "contentHash": "076a5cc0b87d8d085ba11a1ce64850fb6b03529d"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules/Value_validation.validationRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules/Value_validation.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1545925275339,
+            "changeTime": 1545925275339,
+            "contentHash": "0163f3982cdf6d4d8ab14487e557f38b15ff3ea1"
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jasminka/Documents/Projects/myAssignment/ThymeServices/force-app/main/default/objects/Application__c/validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545925275339,
+            "changeTime": 1545925275339,
+            "contentHash": "b60936c309e167ca9c945a4983900121b6ca617b"
         }
     ]
 ]

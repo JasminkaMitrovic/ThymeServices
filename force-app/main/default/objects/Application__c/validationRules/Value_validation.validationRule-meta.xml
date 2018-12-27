@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Value_validation</fullName>
+    <active>true</active>
+    <errorConditionFormula>Value__c&gt;5000&amp;&amp;Value__c&lt;1000</errorConditionFormula>
+    <errorDisplayField>Value__c</errorDisplayField>
+    <errorMessage>Specified loan value must be between1000 and 5000.</errorMessage>
+</ValidationRule>
