@@ -15,16 +15,16 @@
                 <field>Credit_Score__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
-                <field>Salary__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Repayment_Period__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Outcome__c</field>
+                <field>Value__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Status__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

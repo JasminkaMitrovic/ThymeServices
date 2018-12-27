@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Outcome__c</fullName>
+    <fullName>Status__c</fullName>
     <externalId>false</externalId>
-    <label>Outcome</label>
+    <label>Status</label>
     <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
@@ -11,19 +11,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Approved</fullName>
+                <fullName>Active</fullName>
                 <default>false</default>
-                <label>Approved</label>
+                <label>Active</label>
             </value>
             <value>
-                <fullName>Referred</fullName>
+                <fullName>Inactive</fullName>
                 <default>false</default>
-                <label>Referred</label>
-            </value>
-            <value>
-                <fullName>Rejected</fullName>
-                <default>false</default>
-                <label>Rejected</label>
+                <label>Inactive</label>
             </value>
         </valueSetDefinition>
     </valueSet>

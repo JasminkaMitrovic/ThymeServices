@@ -21,11 +21,6 @@
         <field>Bank__c.Min_Loan_Amount__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Loan__c.Loan_Start_Date__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Application__c-Application Layout</layout>
     </layoutAssignments>

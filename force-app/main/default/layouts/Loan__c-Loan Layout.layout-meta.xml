@@ -16,15 +16,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Number_of_Months__c</field>
+                <field>Value__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Loan_Amount__c</field>
+                <field>Period__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Loan_Start_Date__c</field>
+                <behavior>Required</behavior>
+                <field>Status__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>
